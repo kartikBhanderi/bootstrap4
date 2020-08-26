@@ -68,3 +68,19 @@ body
     left: 0;
     min-height: 300px;
 }
+
+.radio-like-button
+{
+    height: 50px;
+    width: 100px;
+    background-color: #9575cd;
+    color: white;
+}
+
+#carouselButton
+{
+    right: 0px;
+    bottom: 0px;
+    position: absolute;
+    z-index: 1;
+}
